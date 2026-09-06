@@ -1,0 +1,15 @@
+{
+  "name": "genpark-structured-output-regex-grammar-fence-skill",
+  "version": "1.0.0",
+  "description": "Structured output formatting and grammar fence stripper ensuring clean JSON, YAML, and XML payloads without markdown leakage.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "grammar-fence",
+    "output-parser",
+    "json-cleaner",
+    "markdown-stripper",
+    "genpark",
+    "mcp"
+  ]
+}
